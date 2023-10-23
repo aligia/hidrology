@@ -4,11 +4,12 @@ Hydrology Deconvolution Toolbox for water residence time estimation
 This toolbox is released under the CeCILL-C French license
 More info at: http://www.cecill.info/index.en.html
 
-Authors: Alina-Georgiana Meresescu, Matthieu Kowalski, Frederic Schmidt, Francois Landais, 
-This code was released to recreate the results obtained in: 
-Water Residence Time Estimation by 1D Deconvolution in the form of 
-a $l_{2}$ Regularized Inverse Problem with Smoothness, Positivity and Causality Constraints
--submitted to Computers and Geoscicences, 2017
+Authors: Alina-Georgiana Meresescu, Matthieu Kowalski, Frederic Schmidt, Francois Landais
+
+The method was published in the following article. Please cite this reference in case of re-use: 
+Meresescu, A. G.; Kowalski, M.; Schmidt, F. & Landais, F. Water Residence Time estimation by 1D deconvolution in the form of a l2-regularized inverse problem with smoothness, positivity and causality constraints Computers & Geosciences, Elsevier BV, 2018, 115, 105-121, http://dx.doi.org/10.1016/j.cageo.2018.03.009
+
+
 
 No guarantees whatsover for this code when used in any real life applications.
 
